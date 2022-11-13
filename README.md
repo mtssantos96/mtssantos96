@@ -2,7 +2,7 @@
 <h3 align="center">Atualmente estudo Desenvolvimento de Software na Trybe</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtssantos96&label=Profile%20views&color=0e75b6&style=flat" alt="mtssantos96" /> </p>
-></a> </p>
+</a> </p>
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
