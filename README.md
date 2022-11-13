@@ -9,7 +9,9 @@
 <a href="https://linkedin.com/in/matheussantpsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheussantpsdev" height="30" width="40" /></a>
 <a href="https://instagram.com/mts.mho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mts.mho" height="30" width="40" /></a>
 <a href="https://www.behance.net/mhodesign96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mhodesign96" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/matheussantpsdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:[matheus.p.1996@hotmail.com]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/mts.mho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
