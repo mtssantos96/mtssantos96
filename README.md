@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o Matheus</h1>
 <h3 align="center">Atualmente estudo Desenvolvimento de Software na Trybe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtssantos96&label=Profile%20views&color=0e75b6&style=flat" alt="mtssantos96" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mtssantos96&label=Profile%20views&color=0e75b6&style=flat" alt="mtssantos96" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtssantos96" alt="mtssantos96" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtssantos96" alt="mtssantos96" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/matheussantpsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheussantpsdev" height="30" width="40" /></a>
 <a href="https://instagram.com/mts.mho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mts.mho" height="30" width="40" /></a>
 <a href="https://www.behance.net/mhodesign96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mhodesign96" height="30" width="40" /></a>
