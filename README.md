@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Matheus</h1>
-<h3 align="center">Atualmente estudo Desenvolvimento de Software na Trybe</h3>
+<h3 align="center">FrontEnd Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtssantos96&label=Profile%20views&color=0e75b6&style=flat" alt="mtssantos96" /> </p>
 </a> </p>
